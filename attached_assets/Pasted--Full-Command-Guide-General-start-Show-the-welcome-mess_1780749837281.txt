@@ -1,0 +1,78 @@
+📖 Full Command Guide
+━━━━━━━━━━━━━━━━━━
+
+🤖 General
+• /start — Show the welcome message
+• /help — Show this guide
+• /rules — Show the group rules
+
+━━━━━━━━━━━━━━━━━━
+🔨 Ban & Kick  (reply to a user's message)
+• /ban — Permanently ban a user
+• /kick — Remove a user (they can rejoin)
+• /tban [time] — Temporary ban
+  ↳ e.g. /tban 30m · /tban 2h · /tban 1d
+
+━━━━━━━━━━━━━━━━━━
+🔇 Mute  (reply to a user's message)
+• /mute — Permanently mute a user
+• /unmute — Remove mute from a user
+• /tmute [time] — Temporarily mute
+  ↳ e.g. /tmute 10m · /tmute 1h
+
+━━━━━━━━━━━━━━━━━━
+⚠️ Warnings  (reply to a user's message)
+• /warn [reason] — Warn a user (auto-ban at 3)
+• /unwarn — Remove the last warning
+• /warns — Check a user's warning count
+• /resetwarns — Clear all warnings for a user
+
+━━━━━━━━━━━━━━━━━━
+📌 Pin Messages  (reply to a message)
+• /pin — Pin the replied message
+• /pin silent — Pin without notification
+• /unpin — Unpin a message
+• /unpinall — Unpin every pinned message
+
+━━━━━━━━━━━━━━━━━━
+👑 Admin Roles  (reply to a user's message)
+• /promote — Promote user to admin
+• /demote — Remove admin rights
+
+━━━━━━━━━━━━━━━━━━
+🗑️ Purge  (reply to the first message to delete)
+• /purge — Delete all messages from replied msg to /purge
+
+━━━━━━━━━━━━━━━━━━
+🔒 Locks
+• /lock [type] — Restrict content type for everyone
+• /unlock [type] — Remove the restriction
+• /locks — Show current lock status
+  ↳ Types: text · media · sticker · gif · poll · link
+
+━━━━━━━━━━━━━━━━━━
+💬 Filters  (keyword auto-replies)
+• /filter [word] [reply] — Set an auto-reply
+  ↳ e.g. /filter hello Hi there!
+• /filters — List all active filters
+• /stop [word] — Remove a filter
+
+━━━━━━━━━━━━━━━━━━
+📋 Rules
+• /setrules [text] — Set the group rules
+  ↳ e.g. /setrules Be respectful. No spam.
+• /rules — Show the group rules
+
+━━━━━━━━━━━━━━━━━━
+🚨 Report  (reply to a bad message)
+• /report [reason] — Alert all admins instantly
+
+━━━━━━━━━━━━━━━━━━
+🎉 Fun
+• /love [Name1] [Name2] — Calculate love %
+  ↳ e.g. /love Alice Bob
+
+━━━━━━━━━━━━━━━━━━
+🤖 AI Chat
+• Message me privately — I always reply
+• @mention me in a group — I reply when tagged
