@@ -1,0 +1,21 @@
+{
+  "economy": {
+    "coins": 0,
+    "kill_count": 1,
+    "last_daily": 1780921108.109306,
+    "last_monthly": 1780921111.0797913,
+    "last_weekly": 1780921116.6264906,
+    "inventory": {
+      "weapons": [
+        "scar"
+      ],
+      "titles": [
+        "newbie"
+      ],
+      "food": {},
+      "equipped_weapon": "scar",
+      "equipped_title": "newbie",
+      "bonus_hp": 0
+    }
+  }
+}
